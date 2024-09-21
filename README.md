@@ -45,9 +45,13 @@ http://localhost:8501
 
 ## Example Interactions
 ### Example 1
-![](/Users/anil/Desktop/Example1.png)
+![](images/Example1.png)
 ### Example 2
+![](images/Example2.png)
 ### Example 3
+![](images/Example3.png)
+### Example 4
+![](images/Example4.png)
 
 ## Requirements
 To run the bot locally, you need the following:
