@@ -68,4 +68,5 @@ qa-bot-project/
 ├── Dockerfile           # Dockerfile for containerization
 ├── .env                 # Environment variables (API Keys)
 ├── README.md            # Project documentation
+├── images               # Image folder which contains sample queries which the model outputted after running the app
 ```
